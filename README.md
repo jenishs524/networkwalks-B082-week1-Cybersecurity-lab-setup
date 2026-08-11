@@ -88,7 +88,7 @@ Additional target machines can be connected to the same virtual network in futur
 | 🧩 Component ⚙️ Configuration | |
 |---|---|
 | 🖥️ Host OS | Kali Linux |
-| 🧠 Host RAM | 7.7 GiB |
+| 🧠 Host RAM | 8 GiB |
 | ⚡ Processor | Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz |
 | 🧰 Hypervisor | VirtualBox 7.2 |
 | 🐉 Security OS | Kali Linux 2026.2 |
